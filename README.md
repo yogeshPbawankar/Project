@@ -2,10 +2,12 @@
 Summary of Machine Learning and Deep Learning Applications
 
 Machine Learning
-Classification
-Email Spam Detection:
 
+Classification
+
+Email Spam Detection:
 Distinguish between spam and legitimate emails to maintain a cleaner inbox.
+
 Customer Churn Prediction for Telecom:
 Use historical customer data, such as demographics, usage patterns, and behavior, to predict and mitigate customer churn.
 
